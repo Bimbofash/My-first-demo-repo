@@ -8,5 +8,5 @@ Social Media & Entertainment Data: The primary data used for this analysis is th
 
 ### Tools
 - R Programming -Data Analysis
-- R Programming -Creating Reports 
+
 
