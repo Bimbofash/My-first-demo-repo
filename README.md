@@ -7,7 +7,6 @@ This data analysis aims to provide insights into the digital habits of 300,000 i
 Social Media & Entertainment Data: The primary data used for this analysis is the "social media & entertainment.csv file, containing detailed information about digital habit of individuals from diverse background.(Kaggle)
 
 ### Tools
-- Excel- Cleaning
 - R Programming -Data Analysis
 - R Programming -Creating Reports 
 
